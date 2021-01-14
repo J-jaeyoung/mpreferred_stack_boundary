@@ -1,0 +1,166 @@
+
+++++++++++++++++
+option: default
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012be <main>:	endbr64 
+   0x4012c2 <main+4>:	push   rbp
+   0x4012c3 <main+5>:	mov    rbp,rsp
+   0x4012c6 <main+8>:	push   rbx
+   0x4012c7 <main+9>:	sub    rsp,0x98
+   0x4012ce <main+16>:	mov    DWORD PTR [rbp-0x94],edi
+   0x4012d4 <main+22>:	mov    QWORD PTR [rbp-0xa0],rsi
+   0x4012db <main+29>:	mov    rax,QWORD PTR fs:0x28
+   0x4012e4 <main+38>:	mov    QWORD PTR [rbp-0x18],rax
+   0x4012e8 <main+42>:	xor    eax,eax
+
+++++++++++++++++
+option: 3
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012be <main>:	endbr64 
+   0x4012c2 <main+4>:	push   rbp
+   0x4012c3 <main+5>:	mov    rbp,rsp
+   0x4012c6 <main+8>:	push   rbx
+   0x4012c7 <main+9>:	sub    rsp,0x88
+   0x4012ce <main+16>:	mov    DWORD PTR [rbp-0x84],edi
+   0x4012d4 <main+22>:	mov    QWORD PTR [rbp-0x90],rsi
+   0x4012db <main+29>:	mov    rax,QWORD PTR fs:0x28
+   0x4012e4 <main+38>:	mov    QWORD PTR [rbp-0x10],rax
+   0x4012e8 <main+42>:	xor    eax,eax
+
+++++++++++++++++
+option: 4
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012be <main>:	endbr64 
+   0x4012c2 <main+4>:	push   rbp
+   0x4012c3 <main+5>:	mov    rbp,rsp
+   0x4012c6 <main+8>:	push   rbx
+   0x4012c7 <main+9>:	sub    rsp,0x98
+   0x4012ce <main+16>:	mov    DWORD PTR [rbp-0x94],edi
+   0x4012d4 <main+22>:	mov    QWORD PTR [rbp-0xa0],rsi
+   0x4012db <main+29>:	mov    rax,QWORD PTR fs:0x28
+   0x4012e4 <main+38>:	mov    QWORD PTR [rbp-0x18],rax
+   0x4012e8 <main+42>:	xor    eax,eax
+
+++++++++++++++++
+option: 5
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012ca <main>:	endbr64 
+   0x4012ce <main+4>:	lea    r10,[rsp+0x8]
+   0x4012d3 <main+9>:	and    rsp,0xffffffffffffffe0
+   0x4012d7 <main+13>:	push   QWORD PTR [r10-0x8]
+   0x4012db <main+17>:	push   rbp
+   0x4012dc <main+18>:	mov    rbp,rsp
+   0x4012df <main+21>:	push   r10
+   0x4012e1 <main+23>:	push   rbx
+   0x4012e2 <main+24>:	sub    rsp,0xa0
+   0x4012e9 <main+31>:	mov    DWORD PTR [rbp-0x94],edi
+
+++++++++++++++++
+option: 6
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012d0 <main>:	endbr64 
+   0x4012d4 <main+4>:	lea    r10,[rsp+0x8]
+   0x4012d9 <main+9>:	and    rsp,0xffffffffffffffc0
+   0x4012dd <main+13>:	push   QWORD PTR [r10-0x8]
+   0x4012e1 <main+17>:	push   rbp
+   0x4012e2 <main+18>:	mov    rbp,rsp
+   0x4012e5 <main+21>:	push   r10
+   0x4012e7 <main+23>:	push   rbx
+   0x4012e8 <main+24>:	sub    rsp,0xe0
+   0x4012ef <main+31>:	mov    DWORD PTR [rbp-0xb4],edi
+
+++++++++++++++++
+option: 7
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012d0 <main>:	endbr64 
+   0x4012d4 <main+4>:	lea    r10,[rsp+0x8]
+   0x4012d9 <main+9>:	and    rsp,0xffffffffffffff80
+   0x4012dd <main+13>:	push   QWORD PTR [r10-0x8]
+   0x4012e1 <main+17>:	push   rbp
+   0x4012e2 <main+18>:	mov    rbp,rsp
+   0x4012e5 <main+21>:	push   r10
+   0x4012e7 <main+23>:	push   rbx
+   0x4012e8 <main+24>:	sub    rsp,0x160
+   0x4012ef <main+31>:	mov    DWORD PTR [rbp-0xf4],edi
+
+++++++++++++++++
+option: 8
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012d6 <main>:	endbr64 
+   0x4012da <main+4>:	lea    r10,[rsp+0x8]
+   0x4012df <main+9>:	and    rsp,0xffffffffffffff00
+   0x4012e6 <main+16>:	push   QWORD PTR [r10-0x8]
+   0x4012ea <main+20>:	push   rbp
+   0x4012eb <main+21>:	mov    rbp,rsp
+   0x4012ee <main+24>:	push   r10
+   0x4012f0 <main+26>:	push   rbx
+   0x4012f1 <main+27>:	sub    rsp,0x2e0
+   0x4012f8 <main+34>:	mov    DWORD PTR [rbp-0x1f4],edi
+
+++++++++++++++++
+option: 9
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012d6 <main>:	endbr64 
+   0x4012da <main+4>:	lea    r10,[rsp+0x8]
+   0x4012df <main+9>:	and    rsp,0xfffffffffffffe00
+   0x4012e6 <main+16>:	push   QWORD PTR [r10-0x8]
+   0x4012ea <main+20>:	push   rbp
+   0x4012eb <main+21>:	mov    rbp,rsp
+   0x4012ee <main+24>:	push   r10
+   0x4012f0 <main+26>:	push   rbx
+   0x4012f1 <main+27>:	sub    rsp,0x5e0
+   0x4012f8 <main+34>:	mov    DWORD PTR [rbp-0x3f4],edi
+
+++++++++++++++++
+option: 10
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012d6 <main>:	endbr64 
+   0x4012da <main+4>:	lea    r10,[rsp+0x8]
+   0x4012df <main+9>:	and    rsp,0xfffffffffffffc00
+   0x4012e6 <main+16>:	push   QWORD PTR [r10-0x8]
+   0x4012ea <main+20>:	push   rbp
+   0x4012eb <main+21>:	mov    rbp,rsp
+   0x4012ee <main+24>:	push   r10
+   0x4012f0 <main+26>:	push   rbx
+   0x4012f1 <main+27>:	sub    rsp,0xbe0
+   0x4012f8 <main+34>:	mov    DWORD PTR [rbp-0x7f4],edi
+
+++++++++++++++++
+option: 11
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012e2 <main>:	endbr64 
+   0x4012e6 <main+4>:	lea    r10,[rsp+0x8]
+   0x4012eb <main+9>:	and    rsp,0xfffffffffffff800
+   0x4012f2 <main+16>:	push   QWORD PTR [r10-0x8]
+   0x4012f6 <main+20>:	push   rbp
+   0x4012f7 <main+21>:	mov    rbp,rsp
+   0x4012fa <main+24>:	push   r10
+   0x4012fc <main+26>:	push   rbx
+   0x4012fd <main+27>:	sub    rsp,0x1000
+   0x401304 <main+34>:	or     QWORD PTR [rsp],0x0
+
+++++++++++++++++
+option: 12
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x4012ee <main>:	endbr64 
+   0x4012f2 <main+4>:	lea    r10,[rsp+0x8]
+   0x4012f7 <main+9>:	and    rsp,0xfffffffffffff000
+   0x4012fe <main+16>:	push   QWORD PTR [r10-0x8]
+   0x401302 <main+20>:	push   rbp
+   0x401303 <main+21>:	mov    rbp,rsp
+   0x401306 <main+24>:	push   r10
+   0x401308 <main+26>:	push   rbx
+   0x401309 <main+27>:	sub    rsp,0x1000
+   0x401310 <main+34>:	or     QWORD PTR [rsp],0x0
+

@@ -1,0 +1,181 @@
+
+++++++++++++++++
+option: default
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x80492fe <main>:	endbr32 
+   0x8049302 <main+4>:	lea    ecx,[esp+0x4]
+   0x8049306 <main+8>:	and    esp,0xfffffff0
+   0x8049309 <main+11>:	push   DWORD PTR [ecx-0x4]
+   0x804930c <main+14>:	push   ebp
+   0x804930d <main+15>:	mov    ebp,esp
+   0x804930f <main+17>:	push   esi
+   0x8049310 <main+18>:	push   ebx
+   0x8049311 <main+19>:	push   ecx
+   0x8049312 <main+20>:	sub    esp,0x8c
+
+++++++++++++++++
+option: 2
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x80492f8 <main>:	endbr32 
+   0x80492fc <main+4>:	push   ebp
+   0x80492fd <main+5>:	mov    ebp,esp
+   0x80492ff <main+7>:	push   esi
+   0x8049300 <main+8>:	push   ebx
+   0x8049301 <main+9>:	sub    esp,0x70
+   0x8049304 <main+12>:	call   0x80491d0 <__x86.get_pc_thunk.bx>
+   0x8049309 <main+17>:	add    ebx,0x2cf7
+   0x804930f <main+23>:	mov    eax,DWORD PTR [ebp+0xc]
+   0x8049312 <main+26>:	mov    DWORD PTR [ebp-0x78],eax
+
+++++++++++++++++
+option: 3
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x80492fb <main>:	endbr32 
+   0x80492ff <main+4>:	lea    ecx,[esp+0x4]
+   0x8049303 <main+8>:	and    esp,0xfffffff8
+   0x8049306 <main+11>:	push   DWORD PTR [ecx-0x4]
+   0x8049309 <main+14>:	push   ebp
+   0x804930a <main+15>:	mov    ebp,esp
+   0x804930c <main+17>:	push   esi
+   0x804930d <main+18>:	push   ebx
+   0x804930e <main+19>:	push   ecx
+   0x804930f <main+20>:	sub    esp,0x7c
+
+++++++++++++++++
+option: 4
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x80492fe <main>:	endbr32 
+   0x8049302 <main+4>:	lea    ecx,[esp+0x4]
+   0x8049306 <main+8>:	and    esp,0xfffffff0
+   0x8049309 <main+11>:	push   DWORD PTR [ecx-0x4]
+   0x804930c <main+14>:	push   ebp
+   0x804930d <main+15>:	mov    ebp,esp
+   0x804930f <main+17>:	push   esi
+   0x8049310 <main+18>:	push   ebx
+   0x8049311 <main+19>:	push   ecx
+   0x8049312 <main+20>:	sub    esp,0x8c
+
+++++++++++++++++
+option: 5
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x8049307 <main>:	endbr32 
+   0x804930b <main+4>:	lea    ecx,[esp+0x4]
+   0x804930f <main+8>:	and    esp,0xffffffe0
+   0x8049312 <main+11>:	push   DWORD PTR [ecx-0x4]
+   0x8049315 <main+14>:	push   ebp
+   0x8049316 <main+15>:	mov    ebp,esp
+   0x8049318 <main+17>:	push   esi
+   0x8049319 <main+18>:	push   ebx
+   0x804931a <main+19>:	push   ecx
+   0x804931b <main+20>:	sub    esp,0xac
+
+++++++++++++++++
+option: 6
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x804930d <main>:	endbr32 
+   0x8049311 <main+4>:	lea    ecx,[esp+0x4]
+   0x8049315 <main+8>:	and    esp,0xffffffc0
+   0x8049318 <main+11>:	push   DWORD PTR [ecx-0x4]
+   0x804931b <main+14>:	push   ebp
+   0x804931c <main+15>:	mov    ebp,esp
+   0x804931e <main+17>:	push   esi
+   0x804931f <main+18>:	push   ebx
+   0x8049320 <main+19>:	push   ecx
+   0x8049321 <main+20>:	sub    esp,0xec
+
+++++++++++++++++
+option: 7
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x804930d <main>:	endbr32 
+   0x8049311 <main+4>:	lea    ecx,[esp+0x4]
+   0x8049315 <main+8>:	and    esp,0xffffff80
+   0x8049318 <main+11>:	push   DWORD PTR [ecx-0x4]
+   0x804931b <main+14>:	push   ebp
+   0x804931c <main+15>:	mov    ebp,esp
+   0x804931e <main+17>:	push   esi
+   0x804931f <main+18>:	push   ebx
+   0x8049320 <main+19>:	push   ecx
+   0x8049321 <main+20>:	sub    esp,0x16c
+
+++++++++++++++++
+option: 8
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x804931f <main>:	endbr32 
+   0x8049323 <main+4>:	lea    ecx,[esp+0x4]
+   0x8049327 <main+8>:	and    esp,0xffffff00
+   0x804932d <main+14>:	push   DWORD PTR [ecx-0x4]
+   0x8049330 <main+17>:	push   ebp
+   0x8049331 <main+18>:	mov    ebp,esp
+   0x8049333 <main+20>:	push   esi
+   0x8049334 <main+21>:	push   ebx
+   0x8049335 <main+22>:	push   ecx
+   0x8049336 <main+23>:	sub    esp,0x2ec
+
+++++++++++++++++
+option: 9
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x804931f <main>:	endbr32 
+   0x8049323 <main+4>:	lea    ecx,[esp+0x4]
+   0x8049327 <main+8>:	and    esp,0xfffffe00
+   0x804932d <main+14>:	push   DWORD PTR [ecx-0x4]
+   0x8049330 <main+17>:	push   ebp
+   0x8049331 <main+18>:	mov    ebp,esp
+   0x8049333 <main+20>:	push   esi
+   0x8049334 <main+21>:	push   ebx
+   0x8049335 <main+22>:	push   ecx
+   0x8049336 <main+23>:	sub    esp,0x5ec
+
+++++++++++++++++
+option: 10
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x804931f <main>:	endbr32 
+   0x8049323 <main+4>:	lea    ecx,[esp+0x4]
+   0x8049327 <main+8>:	and    esp,0xfffffc00
+   0x804932d <main+14>:	push   DWORD PTR [ecx-0x4]
+   0x8049330 <main+17>:	push   ebp
+   0x8049331 <main+18>:	mov    ebp,esp
+   0x8049333 <main+20>:	push   esi
+   0x8049334 <main+21>:	push   ebx
+   0x8049335 <main+22>:	push   ecx
+   0x8049336 <main+23>:	sub    esp,0xbec
+
+++++++++++++++++
+option: 11
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x8049329 <main>:	endbr32 
+   0x804932d <main+4>:	lea    ecx,[esp+0x4]
+   0x8049331 <main+8>:	and    esp,0xfffff800
+   0x8049337 <main+14>:	push   DWORD PTR [ecx-0x4]
+   0x804933a <main+17>:	push   ebp
+   0x804933b <main+18>:	mov    ebp,esp
+   0x804933d <main+20>:	push   esi
+   0x804933e <main+21>:	push   ebx
+   0x804933f <main+22>:	push   ecx
+   0x8049340 <main+23>:	sub    esp,0x1000
+
+++++++++++++++++
+option: 12
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 193 commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m gdb functions (can be used with print/break)[0m
+   0x8049333 <main>:	endbr32 
+   0x8049337 <main+4>:	lea    ecx,[esp+0x4]
+   0x804933b <main+8>:	and    esp,0xfffff000
+   0x8049341 <main+14>:	push   DWORD PTR [ecx-0x4]
+   0x8049344 <main+17>:	push   ebp
+   0x8049345 <main+18>:	mov    ebp,esp
+   0x8049347 <main+20>:	push   esi
+   0x8049348 <main+21>:	push   ebx
+   0x8049349 <main+22>:	push   ecx
+   0x804934a <main+23>:	sub    esp,0x1000
+
